@@ -30,6 +30,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/)
 ## Notes
 
 Created with instructions from CodePath
+I don't have a Mac so time to work is restricted :(
 
 ## License
 
