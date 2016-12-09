@@ -7,7 +7,7 @@ An iOS tip calculator using Xcode and swift
 
 Submitted by: **Lin Zhou**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/)
 
 ## Notes
 
-Created with instructions from CodePath '\n'
+Created with instructions from CodePath    
 I don't have a Mac so time to work is restricted :(
 
 ## License
