@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/)
 
 ## Notes
 
-Created with instructions from CodePath
+Created with instructions from CodePath '\n'
 I don't have a Mac so time to work is restricted :(
 
 ## License
